@@ -12,13 +12,14 @@
 
 ### Languages and Tools:
 
-![Visual Studio Code](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e8350fe8e3517d349d/topics/visual-studio-code/vistual-studio-code.png)
-![HTML](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e8350fe8e3517d349d/topics/html/html.png)
-![CSS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e8350fe8e3517d349d/topics/css/css.png)
-![JS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e8350fe8e3517d349d/topics/javascript/javascript.png)
-![NodeJS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e8350fe8e3517d349d/topics/nodejs/nodejs.png)
-![GitHub](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e8350fe8e3517d349d/topics/github/github.png)
-![HTML5](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e8350fe8e3517d349d/topics/terminal/terminal.png)
+![Visual Studio Code](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/vistual-studio-code.png)
+![HTML](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
+![CSS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)
+![JS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
+![NodeJS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png)
+![MongoDB](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png)
+![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)
+![GitHub](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png)
 
 <br />
 <br />
