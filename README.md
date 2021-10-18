@@ -1,3 +1,5 @@
+<img src="https://lemmmy.pw/osusig/sig.php?colour=hex8866ee&uname=Proximitynow&pp=2&countryrank&removeavmargin&flagshadow&flagstroke&darktriangles&opaqueavatar&onlineindicator=undefined&xpbar&xpbarhex" />
+
 ### Hi there, I'm Jakob - aka Proximitynow 👋
 
 ## I'm a Student at [Rangitoto College](rangitoto.school.nz)
