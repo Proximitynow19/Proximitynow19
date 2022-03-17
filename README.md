@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Jakob - aka Proximitynow 👋
 
-## I'm a Student at [Rangitoto College](rangitoto.school.nz)
+## I'm a Student at [Rangitoto College](https://rangitoto.school.nz)
 
 ### Socials:
 
