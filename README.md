@@ -28,9 +28,4 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Jakob de Guzman's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Proximitynow19&show_icons=true&hide_border=true" />
-
-</details>
+<img alt="osu!" src="https://osu-sig.vercel.app/card?user=13706100&mode=std&lang=en&blur=6&animation=true&hue=255" />
