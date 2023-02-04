@@ -26,4 +26,6 @@
 
 ---
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/445035187370328066)](https://discord.com/users/445035187370328066)
+
 <img alt="osu!" src="https://osu-sig.vercel.app/card?user=13706100&mode=std&lang=en&blur=6&animation=true&hue=255" />
