@@ -3,7 +3,7 @@
 <img align="right" src="shiguang-dailiren-link-click.gif" width="30%">
 
 <pre>
-  - ☄️ HADO E Blacks player in 2023
+  - ☄️ Competed in the 2023 HADO World Cup in Tokyo, Japan
   - 📖 Software Engineering student at the University of Otago
 </pre>
 
