@@ -1,4 +1,5 @@
-<h1 align="center">Hi, my name is Jakob</h1>
+<h1 align="left">Hi, my name is Jakob</h1>
+<img align="right" src="imouto-sae.gif" width="30%">
 
 <pre>
   - ☄️ HADO E Blacks player in 2023
