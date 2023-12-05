@@ -1,4 +1,5 @@
 <h1 align="center">Hi, my name is Jakob</h1>
+<h3>a Software Engineering Student</h3>
 
 <img align="right" src="shiguang-dailiren-link-click.gif" width="30%">
 
